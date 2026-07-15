@@ -1,2 +1,2 @@
 # ANALYTICAL-REPORT-SYSTEM-MEMORY-ARCHITECTONICS-AND-CONTEXT-PROTECTION-IN-THE-IMARCH-ECOSYSTEM
-Дополнение к Аналитической записке No 2
+Дополнение к Аналитическим запискам No 1 & 2 
